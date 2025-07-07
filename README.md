@@ -58,3 +58,7 @@ Sample output and demo logs available upon request
 
 📘 Conclusion
 In conclusion, Task 1 served as an excellent introduction to file handling using Java. It not only improved my understanding of core Java concepts but also enhanced my ability to write clean, interactive, and efficient code. This task forms the foundation for more complex file-based applications and is an important step in my learning journey as part of the CodTech Java Internship
+
+
+output: 
+![Image](https://github.com/user-attachments/assets/538a2215-eb89-4b03-b3b3-0cc78f46ea08)
